@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="footer-background w-full h-60 relative flex items-end justify-center pb-12">
       <a 
-        href="/resumeNEW.pdf" 
+        href="/Resume-JasleenKaur.pdf" 
         target="_blank" 
         rel="noopener noreferrer"
         className="footer-menu-btn"
