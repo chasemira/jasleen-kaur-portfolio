@@ -57,6 +57,14 @@ const Projects = () => {
 
       <div className="w-full max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-6">
         <ProjectCard
+          src="/MedVerse.png"
+          title="MedVerse"
+          description="A hybrid AI–human healthcare platform that delivers anonymous, AI-assisted assessments verified by medical students. 
+          Integrated LLM models for structured preliminary diagnoses with human validation to preserve empathy and accountability."
+          githubUrl="https://github.com/chasemira/MedVerse"
+          websiteUrl="https://www.jasleenkaur.dev/"
+        />
+        <ProjectCard
           src="/learnverse.png"
           title="LearnVerse"
           description=" LearnVerse is a universe of learning opportunities aligned with the UN’s Quality Education—breaking down financial barriers 
